@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "events searches about movies, music and bands!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wglm2014/liri-node-app.git"
+  },
+  "author": "wilson linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wglm2014/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Wglm2014/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "inquirer": "^6.3.1",
+    "node-spotify-api": "^1.1.1"
+  }
+}
