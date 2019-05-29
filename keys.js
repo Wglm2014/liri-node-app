@@ -1,4 +1,5 @@
-exports.spotify = {
-    id: process.env.SPOTIFY_ID,
-    secret: process.env.SPOTIFY_SECRET
+console.log("keys loaded");
+module.exports.spotify = {
+    idSpotify: process.env.SPOTIFY_ID,
+    secretSpotify: process.env.SECRET_ID
 };
