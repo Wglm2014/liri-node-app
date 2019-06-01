@@ -615,4 +615,273 @@
                 "Song's Name": "Too Much Heaven - Chill Out Version",
                 "Link of the Song":"https://api.spotify.com/v1/tracks/0zh6XWuKHebBF2AFnk9cHA",
                 "Name of Album":"Too Much Heaven"
-                }]},
+                }]},{"spotify-this-song I Want it That Way":[{
+                "artists":"Backstreet Boys";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6",
+                "Name of Album":"The Hits--Chapter One"
+                },{
+                "artists":"Backstreet Boys";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya",
+                "Name of Album":"Millennium"
+                },{
+                "artists":"Backstreet Boys";
+                "Song's Name": "I Want It That Way - Reimagined",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/62KnDRUq6CBcT7Bqb9IHKV",
+                "Name of Album":"I Want It That Way (Reimagined)"
+                },{
+                "artists":"Anthem Lights";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/3Ww6kEWxLh4Ub4WPJ9hMtA",
+                "Name of Album":"Covers Part IV"
+                },{
+                "artists":"Mick Jensen";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/0ympGdYdVlZ8zo6irdjMvd",
+                "Name of Album":"I Want It That Way"
+                },{
+                "artists":"Jess and Gabriel";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/52FgeDoHydoWZbFGgxwCdH",
+                "Name of Album":"Under the Covers, Vol. 3"
+                },{
+                "artists":"Tyler and Mark";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/7k52T0b1v9ktm2gJwlO5yy",
+                "Name of Album":"Beautiful Dreams"
+                },{
+                "artists":""Weird Al" Yankovic";
+                "Song's Name": "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4vHb50VkxDzHYwLiHfWczK",
+                "Name of Album":"Poodle Hat"
+                },{
+                "artists":"Backstreet Boys";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1zCiqxhampG4dcC7HEqPu5",
+                "Name of Album":"90 Sweet 90s Hits!"
+                },{
+                "artists":"Dynamite Boy";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/0X5ygHsca3pJ3KErPsXhGc",
+                "Name of Album":"Punk Goes Pop"
+                },{
+                "artists":"Backstreet Boys";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/2KMwtsWwL5QDtSpm814tju",
+                "Name of Album":"NKOTBSB"
+                },{
+                "artists":"Steel Panther";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/0448cNUvZGCAlUpIPO5kdY",
+                "Name of Album":"I Want It That Way"
+                },{
+                "artists":"Glee Cast";
+                "Song's Name": "Bye Bye Bye / I Want It That Way (Glee Cast Version)",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/3t7m7AzV2ntuI9fIT6KREP",
+                "Name of Album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+                },{
+                "artists":"Boyce Avenue";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/16COzZ7jCVn3O8b8ZgviOx",
+                "Name of Album":"Cover Sessions, Vol. 2"
+                },{
+                "artists":"Manuel Costa";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4Sp4RxkWukxqJykl0ySNQi",
+                "Name of Album":"I Want It That Way"
+                },{
+                "artists":"Scary Pockets,Casey Abrams";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4IWQXV01Lp0wsXCXo09EBr",
+                "Name of Album":"Nu Funk"
+                },{
+                "artists":"Love Hits On Piano";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/6o4G9XVj3ikl0W1BNUlH4u",
+                "Name of Album":"Timeless Love"
+                },{
+                "artists":"Yshop";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/0sRt44NXdLVqYeD2TAm1A5",
+                "Name of Album":"I Want It That Way"
+                },{
+                "artists":"Scott Bradlee's Postmodern Jukebox,Shoshana Bean";
+                "Song's Name": "I Want It That Way",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1Le3uYU5NU9cXXtYeSWnEM",
+                "Name of Album":"Selfies on Kodachrome"
+                },{
+                "artists":""Weird Al" Yankovic";
+                "Song's Name": "Ebay (Parody of "I Want It That Way" by the Backstreet Boys)",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1vaico2C72imYowF4Kv04V",
+                "Name of Album":"The Essential "Weird Al" Yankovic"
+                }]},{"spotify-this-song why why why!":[{
+                "artists":"Bazzi";
+                "Song's Name": "Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/7lozLnUfzcgEpMMVQI7yhA",
+                "Name of Album":"COSMIC"
+                },{
+                "artists":"Why Don't We,Macklemore";
+                "Song's Name": "I Don't Belong In This Club",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/45ZGEdLxCZvdMX9jWlsAAx",
+                "Name of Album":"I Don't Belong In This Club"
+                },{
+                "artists":"NF";
+                "Song's Name": "WHY",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/7rjGZWlqqeEMDrAabwZQhr",
+                "Name of Album":"WHY"
+                },{
+                "artists":"XXXTENTACION";
+                "Song's Name": "the remedy for a broken heart (why am I so in love)",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4UKCKdYiLN6IMA5ZESUTL7",
+                "Name of Album":"?"
+                },{
+                "artists":"Selena Gomez";
+                "Song's Name": "Back To You - From 13 Reasons Why – Season 2 Soundtrack",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4hQ6UGyWQIGJmHSo0J88JW",
+                "Name of Album":"Back To You (From 13 Reasons Why – Season 2 Soundtrack)"
+                },{
+                "artists":"Why Don't We";
+                "Song's Name": "Big Plans",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/6Yx181fZzA0YE2EkUsYruq",
+                "Name of Album":"Big Plans"
+                },{
+                "artists":"John Mayer";
+                "Song's Name": "Why Georgia",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1c7UYTut2SBOPq64o2t0uN",
+                "Name of Album":"Room For Squares"
+                },{
+                "artists":"Why Don't We";
+                "Song's Name": "8 Letters",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4zRZAmBQP8vhNPf9i9opXt",
+                "Name of Album":"8 Letters"
+                },{
+                "artists":"Conan Gray";
+                "Song's Name": "Generation Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/79e2GU4RLPjAqnijfvsXYr",
+                "Name of Album":"Sunset Season"
+                },{
+                "artists":"Norah Jones";
+                "Song's Name": "Don't Know Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/6ybViy2qrO9sIi41EgRJgx",
+                "Name of Album":"Come Away With Me"
+                },{
+                "artists":"Timmies";
+                "Song's Name": "Tell Me Why I'm Waiting",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1FBuBhNZ8dmjUBWR58UOQv",
+                "Name of Album":"Passion & Confusion"
+                },{
+                "artists":"Shawn Mendes";
+                "Song's Name": "Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/3XeqINnregzwBJNg7RyyH4",
+                "Name of Album":"Shawn Mendes"
+                },{
+                "artists":"Josh Turner";
+                "Song's Name": "Why Don't We Just Dance",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/2p07VcUwRZ5sru3mJ0JogS",
+                "Name of Album":"Haywire"
+                },{
+                "artists":"YG,Drake,Kamaiyah";
+                "Song's Name": "Why You Always Hatin?",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/39hnH8WdPmNT3Q3yzwC9Rg",
+                "Name of Album":"Still Brazy (Deluxe)"
+                },{
+                "artists":"Why Don't We";
+                "Song's Name": "Don't Change",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/5GGEJhZ5xjbU7UhSlipuoq",
+                "Name of Album":"Don't Change"
+                },{
+                "artists":"Cody Johnson";
+                "Song's Name": "Understand Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/4ezCwgeG8vFDxvNtiUGMmm",
+                "Name of Album":"Ain't Nothin' to It"
+                },{
+                "artists":"Why Don't We";
+                "Song's Name": "Hooked",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/2N2s2s2w0jmSIPNZcm8Jnr",
+                "Name of Album":"8 Letters"
+                },{
+                "artists":"Sabrina Carpenter";
+                "Song's Name": "Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/1byScELwcJffsdL5QWa6Yk",
+                "Name of Album":"Why"
+                },{
+                "artists":"NAV";
+                "Song's Name": "Why You Crying Mama",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/03Q1Tz2OxlA3sRrbXxmG3V",
+                "Name of Album":"Bad Habits (Deluxe)"
+                },{
+                "artists":"Gunna";
+                "Song's Name": "Idk Why",
+                "Link of the Song":"https://api.spotify.com/v1/tracks/06S7iIXT8ZVAcVK6l1iXvx",
+                "Name of Album":"Drip or Drown 2"
+                }]},{"movie-this batman":{
+                "Movie Title": "Batman"
+                "Year Release": "1989",
+                "Imdb Rating": "7.6",
+                "Rotten Tomatoes":" 70%",
+                "Country": "USA, UK",
+                "Languages": "English, French, Spanish",
+                "Plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
+                "Main Cast": "Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl"
+                },{"concert-this Cardi B":[{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["JAM'N 94.5's Summer Jam 2019", "Mansfield", "MA", "United States"],
+                      "Date of event: "Saturday, June 1, 2019 6:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["MetLife Stadium", "East Rutherford", "NJ", "United States"],
+                      "Date of event: "Sunday, June 2, 2019 6:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Parklife Festival", "Manchester", "", "United Kingdom"],
+                      "Date of event: "Saturday, June 8, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Heaton Park Manchester", "Manchester", "", "United Kingdom"],
+                      "Date of event: "Sunday, June 9, 2019 10:30 AM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Kaos @ Palms Casino Resort", "Las Vegas", "NV", "United States"],
+                      "Date of event: "Saturday, June 15, 2019 10:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Bonnaroo Music and Arts Festival", "Manchester", "TN", "United States"],
+                      "Date of event: "Sunday, June 16, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Staples Center", "Los Angeles", "CA", "United States"],
+                      "Date of event: "Saturday, June 22, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Industriezone Balendijk", "Lommel", "", "Belgium"],
+                      "Date of event: "Friday, June 28, 2019 4:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Vestiville", "Lommel", "", "Belgium"],
+                      "Date of event: "Sunday, June 30, 2019 6:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Roskilde Festival", "Roskilde", "", "Denmark"],
+                      "Date of event: "Wednesday, July 3, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Finsbury Park", "London", "", "United Kingdom"],
+                      "Date of event: "Friday, July 5, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Wireless Festival", "Frankfurt / Main", "", "Germany"],
+                      "Date of event: "Saturday, July 6, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Marlay Park", "Dublin", "", "Ireland"],
+                      "Date of event: "Sunday, July 7, 2019 1:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Openair Frauenfeld", "Frauenfeld", "", "Switzerland"],
+                      "Date of event: "Thursday, July 11, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["California Mid-State Fair", "Paso Robles", "CA", "United States"],
+                      "Date of event: "Saturday, July 20, 2019 7:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["BOK Center", "Tulsa", "OK", "United States"],
+                      "Date of event: "Tuesday, July 23, 2019 6:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Intrust Arena", "Wichita", "KS", "United States"],
+                      "Date of event: "Wednesday, July 24, 2019 6:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Pinnacle Bank Arena", "Lincoln", "NE", "United States"],
+                      "Date of event: "Friday, July 26, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Target Center", "Minneapolis", "MN", "United States"],
+                      "Date of event: "Saturday, July 27, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Bankers Life Fieldhouse", "Indianapolis", "IN", "United States"],
+                      "Date of event: "Tuesday, July 30, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["John Paul Jones Arena", "Charlottesville", "VA", "United States"],
+                      "Date of event: "Wednesday, July 31, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Downsview Park", "Toronto", "", "Canada"],
+                      "Date of event: "Saturday, August 3, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Slottsskogen", "Gothenburg", "", "Sweden"],
+                      "Date of event: "Thursday, August 8, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Parrukatu", "Helsinki", "", "Finland"],
+                      "Date of event: "Friday, August 9, 2019 7:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Papas&Beer", "Rosarito", "", "Mexico"],
+                      "Date of event: "Friday, August 16, 2019 2:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Ben Franklin Parkway", "Philadelphia", "PA", "United States"],
+                      "Date of event: "Saturday, August 31, 2019 6:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Saratoga Performing Arts Center", "Saratoga Springs", "NY", "United States"],
+                      "Date of event: "Friday, September 6, 2019 7:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Lakeview Amphitheater", "Syracuse", "NY", "United States"],
+                      "Date of event: "Saturday, September 7, 2019 8:00 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["Royal Farms Arena", "Baltimore", "MD", "United States"],
+                      "Date of event: "Sunday, September 8, 2019 7:30 PM"},{"Name of Bands/Artists to Perform":"Cardi B",
+                      "Venue name":["PIEDMONT PARK", "Atlanta", "GA", "United States"],
+                      "Date of event: "Saturday, September 14, 2019 12:00 PM"}]},
