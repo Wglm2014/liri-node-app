@@ -43,7 +43,9 @@ function menu() {
                 return;
         }
         // call function to ask next question to the user
-        nextQuestion(question, response.search);
+        if (response.search !== "do-what-it-says") {
+            nextQuestion(question, response.search);
+        }
     });
 } // end of main menu
 
@@ -130,7 +132,7 @@ function searchSpotify(searchType, songToSearch) {
         });
 }
 //query the movies api
-function searchMovies(searchTypemovie, movie) {
+function searchMovies(searchType, movie) {
     const url = `http://www.omdbapi.com/?t=${movie}&y=&plot=short&apikey=trilogy`;
     axios.get(url).then(
         function (response) {
@@ -185,10 +187,14 @@ function readRandomTxt(searchType) {
             return
         }
         console.log(data);
-        const index = Math.floor(Math.random() * data.length)
-        const sentence = data[index];
-        const newSearchType = sentence.substr(0, sentence.indexOf(" ").trim());
+        const arrData = data.split(",");
+        console.log(arrData);
+        const index = Math.floor(Math.random() * arrData.length)
+        const sentence = arrData[index];
+        console.log(sentence);
+        const newSearchType = sentence.substr(0, sentence.indexOf(" ")).trim();
         const newName = sentence.substr(sentence.indexOf(" "), sentence.length).trim();
+
         decision(newSearchType, newName);
     });
 
@@ -196,22 +202,23 @@ function readRandomTxt(searchType) {
 
 function decision(searchType, name) {
     //adding search if band, movie or song to ramdon file
-    const newSearch = `,"${searchType} ${name}"`;
-    fs.appendFile("ramdon.txt", newSearch, err => {
-        if (err) {
-            console.log(err);
-        }
-    });
-
+    if (searchType !== "do-what-it-says") {
+        const newSearch = `,${searchType} ${name}`;
+        fs.appendFileSync("ramdon.txt", newSearch, err = {
+            if(err) {
+                console.log(err);
+            }
+        });
+    }
     switch (searchType) {
         case "concert-this":
-            searchBands(searchType, response.answer);
+            searchBands(searchType, name);
             break;
         case "spotify-this-song":
-            searchSpotify(searchType, response.answer);
+            searchSpotify(searchType, name);
             break;
         case "movie-this":
-            searchMovies(searchType, response.answer);
+            searchMovies(searchType, name);
             break;
         default:
         // no fuctionality required by default
