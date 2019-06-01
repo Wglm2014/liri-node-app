@@ -18,8 +18,8 @@ To run liri it is necesary to execute the command *node liri* in the command lin
 1. All the functionality of the app it is contain in the file liri.js, to undertand how it works follow the flow of the functions starting with the function **menu()**.
 
 ### The following links will demostrate the functionality of the liri app (). 
-* Demostrating the four options: [showing how the choices work](https://youtu.be/l_FFKkNJeoM)
-* Demostrating just the ramdon option: [showing the random option](https://youtu.be/uHuyU0PjKq8)
+* Demostrating the four options: [showing the random option](https://youtu.be/uHuyU0PjKq8)
+* Demostrating just the ramdon option: [showing how the choices work](https://youtu.be/l_FFKkNJeoM)
 
 
 
